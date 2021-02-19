@@ -16,7 +16,7 @@ body {
 }
 
 
-.card_left {
+.card_right {
   width: 90%;
   border: double;
   border-radius: 20px;
@@ -32,12 +32,12 @@ body {
   font-size: 30px;
 }
 
-.card_right img {
+.card_left img {
   height: 390px;
   width: 300px;
   border-radius: 20px;
 }
-.card_right {
+.card_left {
   border-radius: 2px;
 }
 
